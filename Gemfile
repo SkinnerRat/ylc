@@ -38,6 +38,8 @@ group :production do
   gem 'pg'
 end
 
+gem 'importmap-rails'
+
 =begin
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.0"
